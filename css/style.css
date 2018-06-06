@@ -1,0 +1,74 @@
+body{background-image: url(../images/background.jpg); background-size: cover; max-height: 100vh; max-height:100vh;}
+.form-section{background: #00000045;margin:  0 auto;width: 600px;height: 600px;margin-top: 210px; border-radius: 1%;} 
+.form-section:hover{ box-shadow: 0 0px 60px 5px rgba(10, 10, 40, 0.6);     transition: 0.5s ease;  } 
+.button1{
+    color:  whitesmoke;
+    background-color:  #179B77;
+    border:  none;
+    width: 44%;
+    margin-top: 50px;
+    margin-left: 23px;
+    height:  45px;
+    font-size:  25px;
+
+    }
+.button1:hover{ background-color: black; transition: 1.2s ease; }
+.button2:hover{ background-color: black; transition: 1.2s ease; }
+.button2{
+    color:  whitesmoke;
+    background-color:  #179B77;
+    border:  none;
+    width: 46%;
+    margin-top: 50px;
+    margin-left: 5px;
+    height:  45px;
+    font-size:  25px;
+
+    }
+
+
+.form-section h2{
+    text-align:  center;
+    font-size: 35px;
+    color: whitesmoke;
+}
+.form-section input{}
+.emai-password{
+    padding: 20px;
+    width: 85%;
+    margin-left: 21px;
+    background-color: #00000075;
+    border: none;
+    margin-top: 35px;
+}
+..form-section {}
+..form-section input{}
+.get-started{
+    color:  white;
+    background-color:  #179B77;
+    border: none;
+    font-size:  25px;
+    margin-top: 50px;
+    margin-left:  20px;
+    width: 550px;
+    height:  50px;
+    font-weight: 500;
+}
+.name{
+    padding: 20px;
+    width: 38%;
+    margin-left: 20px;
+    background-color: #00000054;
+    border:  none;
+}
+.name2{
+   padding: 20px;
+   width: 40%;
+   background-color: #00000061;
+   border:  none;
+}
+::placeholder { /* Chrome, Firefox, Opera, Safari 10.1+ */
+    color: white;
+    opacity: 1; /* Firefox */
+}
+.signup .marquee{}
